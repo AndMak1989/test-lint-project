@@ -1,0 +1,16 @@
+{
+  "name": "eslint-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint-test": "eslint **/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
