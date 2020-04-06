@@ -9,4 +9,4 @@ function test(name){
 
 test(a);
 
-var test  = "MAK 7777"
+var test  = "MAK 12312 17777"
