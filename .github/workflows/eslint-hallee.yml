@@ -1,12 +1,10 @@
 name: Lint
 
-on: issues
+on: [issues]
 
 jobs:
   eslint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: hallee/eslint-action@master
-        with:
-          repo-token: ${{secrets.SOME_TOKEN}}
+      - uses: stefanoeb/eslint-action@1.0.2
