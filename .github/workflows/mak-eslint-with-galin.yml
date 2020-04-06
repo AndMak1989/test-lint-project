@@ -29,4 +29,4 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - run: npm install
-    - run: eslint "**/*.js" 
+    - run: npm run lint-test 
