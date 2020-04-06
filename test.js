@@ -9,4 +9,4 @@ function test(name){
 
 test(a);
 
-var test  = "test"
+var test  = "Yura Galin AND MAK"
