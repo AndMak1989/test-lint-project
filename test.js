@@ -8,3 +8,5 @@ function test(name){
 
 
 test(a);
+
+var test  = "test"
