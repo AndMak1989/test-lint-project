@@ -9,4 +9,4 @@ function test(name){
 
 test(a);
 
-var test  = "Yura Galin AND MAK"
+var test  = "MAK CHECKIANT TEST test"
